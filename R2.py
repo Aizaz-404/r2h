@@ -1,4 +1,3 @@
-
 #!coding : utf-8
 #!usr/lib/python3.11
 #OPEN SOURCE BY JUTT
@@ -306,7 +305,7 @@ def limon2():
 
 class apvroval:
     def check():
-        url = "https://raw.githubusercontent.com/Aizaz-404/r2/main/r2.txt"
+        url = "https://github.com/Aizaz-404/r2/blob/main/r2.txt"
         import mechanize
         my_awm = mechanize.Browser()
         try:
